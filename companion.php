@@ -2,6 +2,7 @@
 /*
 Plugin Name: ACL Woocommerce PVIT Companion
 Description: Redirige les requêtes depuis PVIT vers les bonnes pages Woocommerce
+Plugin URI: https://github.com/bface007/ACL-Woocommerce-PVIT-Companion
 Author: Dan T. Ngossinga
 Version: 0.2
 Author URI: https://github.com/bface007
